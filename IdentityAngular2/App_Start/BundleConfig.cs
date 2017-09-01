@@ -23,9 +23,9 @@ namespace IdentityAngular2
                       "~/Assets/scripts/bootstrap.js",
                       "~/Assets/scripts/respond.js"));
 
-            bundles.Add(new StyleBundle("~/Assets/content/css").Include(
-                      "~/Assets/content/bootstrap.css",
-                      "~/Assets/content/site.css"));
+            bundles.Add(new StyleBundle("~/Assets/css/content/css").Include(
+                      "~/Assets/css/content/bootstrap.css",
+                      "~/Assets/css/content/site.css"));
         }
     }
 }

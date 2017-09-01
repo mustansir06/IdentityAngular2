@@ -197,12 +197,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Assets\content\bootstrap.css" />
-    <Content Include="Assets\content\bootstrap.min.css" />
+    <Content Include="Assets\css\content\bootstrap.css" />
+    <Content Include="Assets\css\content\bootstrap.min.css" />
+    <Content Include="Assets\css\content\Site.css" />
     <Content Include="favicon.ico" />
     <Content Include="Assets\fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
-    <Content Include="Assets\content\Site.css" />
     <Content Include="Assets\scripts\bootstrap.js" />
     <Content Include="Assets\scripts\bootstrap.min.js" />
     <Content Include="ApplicationInsights.config">
